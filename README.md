@@ -5,6 +5,12 @@ This project focuses on analyzing chocolate sales data using Power BI Desktop to
 revenue trends, product performance, and regional sales insights that support
 business decision-making.
 
+## Dataset
+- Source: Public sample dataset from Chandoo.org Power BI GitHub repository
+- Link: https://github.com/chandoo-org/Power-BI/blob/main/ac-sample-data.xlsx
+- Format: Excel (.xlsx)
+- Description: Sales and business performance data used for analyzing revenue trends, product performance, and key KPIs in Power BI
+
 ## Business Questions Addressed
 - Which chocolate products generate the highest revenue?
 - How does sales performance vary across regions?
